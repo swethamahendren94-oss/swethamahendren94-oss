@@ -48,12 +48,11 @@
 ## 📚 Currently Learning
 
 - ✅ Fundamentals of Information Technology
-- ✅ Basic Programming — Java & Python
+- ✅ Programming Languages — Java & Python
 - ✅ Microsoft Power BI — Dashboard Development & Data Visualization
 - 🔄 Software Testing concepts & methodology (Coursera)
 - 🔄 Git & GitHub for version control
 - ⏳ Object-Oriented Programming (OOP)
-- ⏳ Web Development fundamentals
 
 ---
 
