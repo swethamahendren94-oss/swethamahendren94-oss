@@ -11,7 +11,7 @@
 - 💡 Interested in **software development**, **data analytics**, and **business technology**
 - 🌱 Continuously building skills through self-study, research, and online resources
 - 💼 Seeking an **IT internship** to apply my knowledge in a professional environment
-- 📍 Based in **Gampola, Sri Lanka**
+- 📍 Based in **kandy, Sri Lanka**
 - 🗣️ Fluent in **English**, **Tamil**, and **Sinhala**
 
 ---
