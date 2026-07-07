@@ -7,7 +7,7 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 Completed **Foundation in Information Technology & Business Management** — BCAS Campus, Kandy
-- 📚 Currently learning **Introduction to Software Testing** (Intermediate) on Coursera
+- 📚 Completed **Introduction to Software Testing** — University of Minnesota (Coursera)
 - 💡 Interested in **software development**, **data analytics**, and **business technology**
 - 🌱 Continuously building skills through self-study, research, and online resources
 - 💼 Seeking an **IT internship** to apply my knowledge in a professional environment
@@ -41,7 +41,7 @@
 | Certificate | Platform | Year |
 |-------------|----------|------|
 | ✅ Introduction to Java | Sololearn | 2026 |
-| 🔄 Introduction to Software Testing *(in progress)* | Coursera | 2026 |
+| ✅ Introduction to Software Testing | Coursera (University of Minnesota) | 2026 |
 
 ---
 
@@ -50,7 +50,7 @@
 - ✅ Fundamentals of Information Technology
 - ✅ Programming Languages — Java & Python
 - ✅ Microsoft Power BI — Dashboard Development & Data Visualization
-- 🔄 Software Testing concepts & methodology (Coursera)
+- ✅ Software Testing concepts & methodology (University of Minnesota, Coursera)
 - 🔄 Git & GitHub for version control
 - ⏳ Object-Oriented Programming (OOP)
 
