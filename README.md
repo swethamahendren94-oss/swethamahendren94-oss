@@ -1,6 +1,6 @@
 # Hi there, I'm Swetha Mahendran 👋
 
-> Foundation IT student passionate about software development, data analytics, and continuous learning.
+> IT student passionate about software development, data analytics, and continuous learning.
 
 ---
 
