@@ -32,12 +32,11 @@ Analytics & Tools:
 - Power BI, Microsoft Excel  
 - Git, GitHub, MS Office
 
-(Consider adding small badges or icons for each tool to the top of this section)
+
 
 ---
 
 ## Projects
-(Click project titles to open the repo or demo)
 
 - Expense Tracker — Java console app to log expenses + Python analysis script to visualize spending (pie charts).  
   Tech: Java, Python, pandas, matplotlib  
@@ -45,13 +44,13 @@ Analytics & Tools:
 
 - Telco Connect Customer Analytics Dashboard — interactive Power BI dashboard analyzing customers, subscriptions, support tickets and usage patterns.  
   Tech: Power BI  
-  Demo / Screenshot: [link to pbix or embed / screenshot]
+  
 
 - Student Performance Analysis Dashboard — analyzed 2,000 students using SQL + Excel; built an interactive Power BI dashboard and discovered study hours correlate strongly with performance.  
   Tech: SQL, Excel, Power BI  
-  Repo / Dashboard: [link]
+  
 
-Tip: Add short bullet “What I learned / result” for each project (1–2 lines), link to project repos, and add screenshots or GIFs.
+
 
 ---
 
@@ -73,19 +72,7 @@ Currently learning:
 
 ---
 
-## Contact
-- Email: [swethamahendren94@gmail.com](mailto:swethamahendren94@gmail.com)  
-- LinkedIn: [your-LinkedIn-url] (add a link)  
-- Resume: [link to PDF or Google Drive] (optional)
 
----
-
-## Next Steps / How You Can Help
-- If you’re a recruiter: I’m open to internship opportunities — drop me a message on LinkedIn or email.  
-- If you’re a mentor: I welcome feedback on my projects and suggestions for improvement.  
-- Want to contribute to a project? Open an issue or PR with suggestions.
-
----
 
 ## GitHub Stats
 ![Swetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swethamahendren94-oss&show_icons=true&theme=tokyonight&hide_border=true)
@@ -93,4 +80,4 @@ Currently learning:
 
 ---
 
-_Last updated: YYYY-MM-DD_
+
