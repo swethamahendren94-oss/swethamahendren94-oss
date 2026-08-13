@@ -50,7 +50,7 @@
 - ✅ Fundamentals of Information Technology
 - ✅ Programming Languages — Java & Python
 - ✅ Database — SQL (MySQL)
-- ✅ Web — Basic HTML
+- ✅ Web — HTML
 - ✅ Microsoft Power BI — Dashboard Development & Data Visualization
 - ✅ Software Testing concepts & methodology
 - 🔄 Git & GitHub for version control
