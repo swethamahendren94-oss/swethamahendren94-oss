@@ -71,8 +71,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔜 Coming soon | Java mini project | Java |
-| 🔜 Coming soon | Data dashboard | Power BI / Excel |
+| 💰 Expense Tracker | 	Java console app for logging expenses + Python script that analyzes spending and generates a pie chart | Java, Python, pandas, matplotlib|
+| 📊 Telco Connect Customer Analytics Dashboard | Interactive Power BI dashboard analyzing telecom customer, subscription, support, and usage data | Power BI|
+| 🎓 Student Performance Analysis Dashboard | Analyzed 2,000 students' data with SQL + Excel; built a Power BI dashboard; found study hours matter more than attendance| SQL, Excel, Power BI|
 
 ---
 
