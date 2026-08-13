@@ -88,11 +88,6 @@ Currently learning:
 - If you're a recruiter: I'm open to internship opportunities — drop me a message on LinkedIn or email.  
 - If you're a mentor: I welcome feedback on my projects and suggestions for improvement.
 
----
-
-## GitHub Stats
-![Swetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swethamahendren94-oss&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swethamahendren94-oss&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 _Last updated: 2026-08-13_
