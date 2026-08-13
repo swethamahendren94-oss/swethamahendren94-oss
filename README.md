@@ -1,11 +1,12 @@
 # Hi there, I'm Swetha Mahendran 👋
-> IT student focused on software development, data analytics, and practical learning. Currently seeking an IT internship to apply and expand my skills.
+> IT graduate building a strong foundation in software development and data analytics — working toward a future in AI engineering. Currently seeking an IT internship to grow hands-on skills.
 
 [![Profile views](https://komarev.com/ghpvc/?username=swethamahendren94-oss&color=blueviolet&style=flat-square)](https://github.com/swethamahendren94-oss)
 
 ## Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
+- [Currently Learning](#-currently-learning)
 - [Projects](#projects)
 - [Certifications & Learning](#certifications--learning)
 - [Extracurriculars](#extracurriculars)
@@ -63,11 +64,14 @@
 ## Certifications & Learning
 | Certificate | Platform | Year |
 |-------------|----------|------|
-| Introduction to Java | Sololearn | 2026 |
-| Introduction to Software Testing | Coursera (University of Minnesota) | 2026 |
+| [Introduction to Java](https://www.sololearn.com/certificates/CC-PRL4UNP0) | Sololearn | 2026 |
+| [Introduction to Software Testing](https://www.coursera.org/account/accomplishments/records/OZBM7WZNJFM4) | Coursera (University of Minnesota) | 2026 |
 
-Currently learning:
-- OOP fundamentals, Git & GitHub, Power BI dashboard best practices
+## 🌱 Currently Learning
+- OOP fundamentals
+- Git & GitHub
+- Power BI dashboard best practices
+- Exploring the basics of AI/ML (early stage — starting soon)
 
 ---
 
