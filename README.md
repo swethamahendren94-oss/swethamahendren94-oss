@@ -40,7 +40,7 @@ Analytics & Tools:
 
 - Expense Tracker — Java console app to log expenses + Python analysis script to visualize spending (pie charts).  
   Tech: Java, Python, pandas, matplotlib  
-  Repo / Demo: [link to repo] — include README and sample output image.
+  
 
 - Telco Connect Customer Analytics Dashboard — interactive Power BI dashboard analyzing customers, subscriptions, support tickets and usage patterns.  
   Tech: Power BI  
